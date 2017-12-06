@@ -1,0 +1,4 @@
+import sys
+sys.getfilesystemencoding()
+sys._enablelegacywindowsfsencoding()
+sys.getfilesystemencoding()
